@@ -1,0 +1,6 @@
+numpy
+pandas
+ortools
+
+# Optional: only needed for plotting helpers in utils.py
+plotly
